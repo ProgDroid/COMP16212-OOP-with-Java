@@ -8,5 +8,5 @@ Some exercises from the OOP with Java course at University, a Snake game and a L
 
 ![alt text][snake2]
 
-[snake1]: https://github.com/ProgDroid/COMP16212-OOP-with-Java/blob/master/screenshots/snake1.png
-[snake2]: https://github.com/ProgDroid/COMP16212-OOP-with-Java/blob/master/screenshots/snake2.png
+[snake1]: https://github.com/ProgDroid/COMP16212-OOP-with-Java/blob/main/screenshots/snake1.png
+[snake2]: https://github.com/ProgDroid/COMP16212-OOP-with-Java/blob/main/screenshots/snake2.png
